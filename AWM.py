@@ -1,4 +1,4 @@
-created by Faisal Haidary
+created  Faisal Haidary
 #!/usr/bin/python3
 #---------------------[IMPORT]---------------------#
 from bs4 import BeautifulSoup as sop
